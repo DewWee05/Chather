@@ -5,6 +5,9 @@ Chather is an Android-based application that allows the user to create an accoun
 create many different chatrooms for their added contacts, allowing them to communicate and connect with whoever they want. The users can also check out the current weather and location of the app. With the weather application provides a 7-day 24-hour forecast, the users can check out their current location via Google Maps and change the styles of that map to match their desire. <br />
 
 
+Video Demo:
+https://www.youtube.com/watch?v=Dl3_zOyQMJ0 <br />
+
 Back-end code for Chather <br />
 _______________________________________________<br /><br />
 LINKS: <br />
